@@ -1,0 +1,51 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SlideOutActions">
+    <Style
+        TargetType="local:SlideInMenuContentControl">
+        <Setter
+            Property="Template">
+            <Setter.Value>
+                <ControlTemplate
+                    TargetType="local:SlideInMenuContentControl">
+                    <Grid>
+                        <FlipView
+                            x:Name="ContentSelector"
+                            SelectedIndex="1">
+                            <FlipViewItem
+                                x:Name="ContentLeftSideMenu"
+                                HorizontalAlignment="Right"
+                                MaxWidth="{TemplateBinding LeftSideMenuWidth}">
+                                <ContentPresenter
+                                    Content="{TemplateBinding LeftMenuContent}" />
+                            </FlipViewItem>
+                            <FlipViewItem
+                                x:Name="ContentFrame">
+                                <Grid Background="#f0f0f0">
+                                    <ContentControl Margin="-1,0,-4,0" 
+                                                    HorizontalAlignment="Stretch" 
+                                                    VerticalAlignment="Stretch"
+                                                    HorizontalContentAlignment="Stretch" 
+                                                    VerticalContentAlignment="Stretch"
+                                        Content="{TemplateBinding Content}" />
+                                    <Border
+                                        Visibility="Collapsed"
+                                        x:Name="DisableContentOverlay"
+                                        Background="Transparent" />
+                                </Grid>
+                            </FlipViewItem>
+                            <FlipViewItem
+                                HorizontalAlignment="Left"
+                                x:Name="ContentRightSideMenu"
+                                MaxWidth="{TemplateBinding RightSideMenuWidth}">
+                                <ContentPresenter
+                                    Content="{TemplateBinding RightMenuContent}" />
+                            </FlipViewItem>
+                        </FlipView>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
