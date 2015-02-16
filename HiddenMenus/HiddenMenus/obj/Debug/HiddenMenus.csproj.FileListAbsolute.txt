@@ -1,0 +1,74 @@
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\App.xbf
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\MainPage.xbf
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\Themes\Generic.xbf
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.xr.xml
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.exe
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.pdb
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\resources.pri
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\AppxManifest.xml
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.build.appxrecipe
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\App.g.i.cs
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\App.g.cs
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\MainPage.g.i.cs
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\MainPage.g.cs
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.g.cs
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\App.xaml
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\App.xbf
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\MainPage.xaml
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.xaml
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\MainPage.xbf
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\HiddenMenus.exe
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\HiddenMenus.pdb
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\priconfig.xml
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\priconfig.xml.intermediate
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\layout.resfiles
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\layout.resfiles.intermediate
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\resources.resfiles
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\resources.resfiles.intermediate
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\pri.resfiles
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\pri.resfiles.intermediate
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\qualifiers.txt
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\ProjectArchitectures.txt
+C:\Users\Deani\Documents\Visual Studio 2015\Projects\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.xbf
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\App.xbf
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\MainPage.xbf
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\Themes\Generic.xbf
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.xr.xml
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.exe
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.pdb
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\resources.pri
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\AppxManifest.xml
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\bin\Debug\HiddenMenus.build.appxrecipe
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\App.g.i.cs
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\App.g.cs
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\MainPage.g.i.cs
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\MainPage.g.cs
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.g.cs
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\App.xaml
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.xaml
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\App.xbf
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\MainPage.xaml
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\MainPage.xbf
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\HiddenMenus.exe
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\HiddenMenus.pdb
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\priconfig.xml
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\priconfig.xml.intermediate
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\layout.resfiles
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\layout.resfiles.intermediate
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\resources.resfiles
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\resources.resfiles.intermediate
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\pri.resfiles
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\pri.resfiles.intermediate
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\qualifiers.txt
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\ProjectArchitectures.txt
+C:\Users\Deani\Desktop\HiddenMenus\HiddenMenus\HiddenMenus\obj\Debug\Themes\Generic.xbf
